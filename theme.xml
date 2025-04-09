@@ -43,7 +43,7 @@
             <fontPath>${altFont}</fontPath>
         </systemstatus>
         <clock name="menuclock">
-            <fontSize>0.04</fontSize>
+            <fontSize>0.0375</fontSize>
             <rotation>0</rotation>
             <pos>0.00625 0.045</pos>
             <size>0.05 0.04</size>
