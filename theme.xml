@@ -46,7 +46,7 @@
             <fontSize>0.0375</fontSize>
             <rotation>0</rotation>
             <pos>0.00625 0.045</pos>
-            <size>0.05 0.04</size>
+            <size>0.075 0.04</size>
             <origin>0 0</origin>
             <fontPath>${altFont}</fontPath>
             <horizontalAlignment>left</horizontalAlignment>
@@ -88,7 +88,7 @@
             <fontSize>0.04</fontSize>
             <rotation>0</rotation>
             <pos>0.015 0.035</pos>
-            <size>0.05 0.04</size>
+            <size>0.075 0.04</size>
             <origin>0 0</origin>
             <fontPath>${altFont}</fontPath>
             <horizontalAlignment>left</horizontalAlignment>
@@ -130,7 +130,7 @@
             <fontSize>0.04</fontSize>
             <rotation>0</rotation>
             <pos>0.075 0.04</pos>
-            <size>0.05 0.04</size>
+            <size>0.075 0.04</size>
             <origin>0 0</origin>
             <fontPath>${altFont}</fontPath>
             <horizontalAlignment>left</horizontalAlignment>
@@ -172,7 +172,7 @@
             <fontSize>0.0375</fontSize>
             <rotation>0</rotation>
             <pos>0.085 0.0175</pos>
-            <size>0.07 0.04</size>
+            <size>0.075 0.04</size>
             <origin>0 0</origin>
             <fontPath>${altFont}</fontPath>
             <horizontalAlignment>left</horizontalAlignment>
@@ -215,7 +215,7 @@
             <fontSize>0.04</fontSize>
             <rotation>0</rotation>
             <pos>0.0225 0.025</pos>
-            <size>0.05 0.04</size>
+            <size>0.075 0.04</size>
             <origin>0 0</origin>
             <fontPath>${altFont}</fontPath>
             <horizontalAlignment>left</horizontalAlignment>
@@ -258,7 +258,7 @@
             <fontSize>0.04</fontSize>
             <rotation>0</rotation>
             <pos>0.01 0.045</pos>
-            <size>0.05 0.04</size>
+            <size>0.075 0.04</size>
             <origin>0 0</origin>
             <fontPath>${altFont}</fontPath>
             <horizontalAlignment>left</horizontalAlignment>
