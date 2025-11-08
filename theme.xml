@@ -884,7 +884,7 @@
                 <pos>0.915 0.68</pos>
                 <origin>.50 0</origin>
                 <size>0.11 0.09</size>
-                <metadata>emulator</metadata>
+                <metadata>playtime</metadata>
                 <defaultValue>:space:</defaultValue>
                 <fontPath>${primaryFont}</fontPath>
                 <fontSize>0.022</fontSize>
@@ -898,7 +898,7 @@
                 <pos>0.795 0.675</pos>
                 <origin>.0 0</origin>
                 <size>0.09 0.05</size>
-                <text>${langLabelEmulator}</text>
+                <text>Playtime</text>
                 <fontPath>${primaryFont}</fontPath>
                 <fontSize>0.02</fontSize>
                 <lineSpacing>1</lineSpacing>
